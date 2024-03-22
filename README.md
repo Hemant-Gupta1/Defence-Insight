@@ -2,7 +2,7 @@
 
 
 ## Github Link
-https://github.com/Hemant-Gupta1/final_intellij/tree/main
+https://github.com/Hemant-Gupta1/newsapi/tree/main
 
 
 ## Features
