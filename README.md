@@ -2,7 +2,7 @@
 
 
 ## Github Link
-https://github.com/Hemant-Gupta1/newsapi/tree/main
+https://github.com/Hemant-Gupta1/Defence-News-Fetching-Application
 
 
 ## Features
