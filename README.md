@@ -1,7 +1,7 @@
 # Defence News Fetching Application
 
 
-## Github Link
+## GitHub Link
 https://github.com/Hemant-Gupta1/Defence-News-Fetching-Application
 
 
