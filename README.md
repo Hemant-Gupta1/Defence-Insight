@@ -2,7 +2,7 @@
 
 
 ## GitHub Link
-https://github.com/Hemant-Gupta1/Defence-News-Fetching-Application
+https://github.com/Hemant-Gupta1/Defence-Insight/tree/main
 
 
 ## Features
