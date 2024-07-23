@@ -1,4 +1,4 @@
-# Defence News Fetching Application
+# Defence Insight
 
 
 ## GitHub Link
