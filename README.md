@@ -14,10 +14,10 @@ https://github.com/Hemant-Gupta1/Defence-Insight/tree/main
 6. Responsive and visually appealing layout.
 
 ## Technologies used
-HTML5: Provides the structure of the webpage.
-CSS3: Used for styling the UI elements.
-JavaScript: Handles dynamic behavior, including fetching news from the API and displaying it on the page.
-News API: The source of news data.
+1. HTML5: Provides the structure of the webpage.
+2. CSS3: Used for styling the UI elements.
+3. JavaScript: Handles dynamic behavior, including fetching news from the API and displaying it on the page.
+4. News API: The source of news data.
 
 
 
