@@ -6,12 +6,12 @@ https://github.com/Hemant-Gupta1/Defence-Insight/tree/main
 
 
 ## Features
-Fetches and displays the latest news articles using the News API.
-Dynamic filtering of news based on categories (Missile, Finance, Politics, Defence, Space, Army).
-Allows users to search for news by keywords using the search bar.
-Displays news articles with images, titles, descriptions, and the source of publication.
-Clicking on a news card opens the full article in a new tab.
-Responsive and visually appealing layout.
+1. Fetches and displays the latest news articles using the News API.
+2. Dynamic filtering of news based on categories (Missile, Finance, Politics, Defence, Space, Army).
+3. Allows users to search for news by keywords using the search bar.
+4. Displays news articles with images, titles, descriptions, and the source of publication.
+5. Clicking on a news card opens the full article in a new tab.
+6. Responsive and visually appealing layout.
 
 ## Technologies used
 HTML5: Provides the structure of the webpage.
